@@ -1,0 +1,224 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\o9yB0WnLUXQDwTtXamDcCGCzN7Dv94VNiN6vS-pa2ds=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazorSignalRApp.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorSignalRApp.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bAAoP43FSxn425XCULevnqJ8WvoBhONz3GVGGemsf6o=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazorSignalRApp.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorSignalRApp.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HBSrDWWQpRMlysmoOqzvVL7vzgNP8MQXNCkEP23tLik=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kubHPZ1qNDZXL4y-jnKdN_gNXm6BntDe5mfvSnxGdbA=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\z5ivIPBLGvYPYnnS0nCfM6smsysEOIpNXcj5qTtwTv4=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kEx1h7QZqvGuijsVgg1PrPfAWpvznNdLlsoXHANP1I8=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Connections.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\eouB32yWIsIvcVJRq92Gs9QIx3zvzpxrH7WwPn5R0OI=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Connections.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\fEYRkM8BRv5v_C5B8M-k_9fsgkMT1tCXRTHAqceKKvY=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Connections.Common.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vXkQZ50jUeEdUXvmOmZs_ittiq9XJByuDb_W1Uzvgc4=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Http.Features.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Features.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GGO2VThrfUMtCiKBShlHkvh5lAmH--OFsdlKZUdm-wA=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Client.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\O01KFKrAGM2PXrW5UWAf0jTUXGnSOKFObfg6uITXXpI=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZAvqSmLQKmaln_fNkuVd6OnTs3Ft1bEZOmwQdBzn-8U=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Common.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Common.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\PQpX53dNle5PaiM74m5XBZAjluSMNh_H6GJgfPkIbyE=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Protocols.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\BVev92CfwCu3MwvKbUgAvg4paWCVDy5f79Ah5YJa7cc=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yP3cHawYC7BVIzBs8Kch03qSnSLdAg08B7t9gVejcrs=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\WYqF9oYIqBkyApbJHOIihugmjw3C6iNjMcD3uh0wdmI=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\KiXer67EDun51XgPW4y2uf7jRb8YQvEXId6aY38sI5k=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\89_1j3oiZOPhOqc65vwx_kcpnwteeSNDcjF3upYja4A=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mmNi0m-UU-hPU8eRwWu3LHuCJtzwiazBpcg9Ca5-ncM=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\wDE5yJUj0VEhIs8SF2P9Ea_PHGF4D83oGV7JkVKjO3s=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\o-GYT_y05QF1bpt5kpj3OZ8GpoUdNzOmHtHELZnI890=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HubgW9WE8D2DeWPyFtoTmVcBMQXJ19AI4Wsn37NSiGg=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\TG8JuPCodD65HlARzaGHelh7TaQl_Ye13DcCAHGioLs=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\buDVuKbgsngPe2-O8kz-HzujCvybTwLUIIStX3lmPOk=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\m2sAiJculmQyM2Z1Uf8A_N3stl-umPkNQHz-PObTMAg=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bX5ZuhCAMho4bATgGWMOiNuXn39g0T0IfYLsjgzol1s=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Mono.Security.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Y3K6WDtj3WhIF-Lk66BHIG-_4QeMZNdX5fd1VSyuT8k=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\0X4tc9gMSpkZ6QJv0HecWMuFtHUBr2tbJN_2VaGu_wE=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SZ_IBx1u1mOwd3Hs01DLz4n18_LIv07-WqMzAmdiYVU=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\j1rKxxluuMKH8Ycphnf4iVVXldvA_Z0j0Ma6t90eKsE=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.IO.Pipelines.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Pipelines.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\w7rejPOjd6NMtkU-j1J63IeWRaNJBhaCDITFaHaNoYY=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\h06DgzYr3DiIvbJKKwyGQHNKqBNTeTDcmX6kh9USGa0=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\PPmISPEFbrmIAZ035q8Zw7j_18c41Z3KrFHMTnLoBUo=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\0CIW9EayRJPIRRizzfIbkmMk7RxG9LG5mxn3PC78FRk=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\2mQSJqVkJ_odKF1dXH11qE_DkyIycDngFVrPqfQlTUo=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tdDNAHXB-O8rZ8ExSwDM4gSlVQeQG5AgrZd22d50GYc=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UN8czcNm8E1ZZEowqhtBIY8STdeDchwVZcBDtEerer0=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Threading.Channels.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.Channels.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ELhBAQhUJ9gmsN5uuvNBhTyrDs8_fQld7V7byCX9hMU=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HXz6MgLEtoYvagxjTGhYATbQuj6u_JHPBqbutiJZBI0=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Net.WebSockets.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Net.WebSockets.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\itsix\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\itsix\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\itsix\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash",
+      "Source": "C:\\Users\\itsix\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.0\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3M6bkbwDVV-NTO_xTOjQ44x0e_875qe770WyJDg9AGg=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-signalr-chat\\src\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
+    }
+  ]
+}

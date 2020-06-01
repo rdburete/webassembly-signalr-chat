@@ -1,0 +1,9 @@
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.deps.json
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.dll
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.pdb
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.csprojAssemblyReference.cache
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.AssemblyInfoInputs.cache
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.AssemblyInfo.cs
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.csproj.CoreCompileInputs.cache
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.dll
+D:\Radu's Files\Blazor\Github Pages\webassembly-signalr-chat\src\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.pdb
